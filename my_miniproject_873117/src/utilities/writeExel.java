@@ -69,7 +69,7 @@ public class writeExel {
 							   workbook.write(fileOutputStream);
 							   
 							   workbook.close();
-							   System.out.println("Exel file is created");
+							   System.out.println("Excel file is created");
 							   
 	 	}
 }
